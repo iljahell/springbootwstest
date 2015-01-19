@@ -1,0 +1,9 @@
+/target/
+/.settings/
+/.project
+/.classpath
+/dist/
+/mem.log
+/mem.properties
+/stage/
+/.springBeans
